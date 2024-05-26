@@ -1,0 +1,3 @@
+function alertPopup(){
+  alert("ECMAScript");
+}
